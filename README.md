@@ -63,23 +63,6 @@ promoter detection · splice site prediction · gene expression clustering
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&lines=GitHub+Stats;My+activity;Contributions+%26+Languages" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivandocampo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00D4FF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivandocampo&layout=compact&langs_count=7&theme=tokyonight&border_color=00D4FF"/>
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ivandocampo&theme=tokyonight&border=00D4FF)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&lines=Certifications;What+I%27ve+learned;Credentials" alt="Certifications" />
 </div>
 
@@ -119,6 +102,27 @@ The project focused on developing a digital solution simulating a professional e
 ---
 
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&lines=GitHub+Stats;My+activity;Contributions+%26+Languages" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivandocampo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00D4FF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivandocampo&layout=compact&langs_count=7&theme=tokyonight&border_color=00D4FF"/>
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ivandocampo&theme=tokyonight&border=00D4FF)](https://git.io/streak-stats)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=ivandocampo&style=for-the-badge&color=00D4FF&label=PROFILE+VIEWS" />
+
+</div>
+
+---
+
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&lines=Let%27s+connect;Find+me+online;Open+to+collaborate;Drop+me+a+message" alt="Connect" />
 
@@ -129,9 +133,5 @@ The project focused on developing a digital solution simulating a professional e
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivandocampogonzalez@gmail.com)
 &nbsp;
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ivndocampo)
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=ivandocampo&style=for-the-badge&color=00D4FF&label=PROFILE+VIEWS" />
 
 </div>

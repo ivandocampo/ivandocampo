@@ -1,4 +1,4 @@
-<svg width="800" height="320" viewBox="0 0 800 320" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', system-ui, sans-serif">
+<svg width="900" height="300" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', system-ui, sans-serif">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#0d1117"/>
@@ -16,98 +16,61 @@
       <stop offset="0%" style="stop-color:#00b894;stop-opacity:0.15"/>
       <stop offset="100%" style="stop-color:#00b894;stop-opacity:0.05"/>
     </linearGradient>
-    <linearGradient id="tag3" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#fd79a8;stop-opacity:0.15"/>
-      <stop offset="100%" style="stop-color:#fd79a8;stop-opacity:0.05"/>
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
-      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <clipPath id="rounded">
-      <rect width="800" height="320" rx="16"/>
-    </clipPath>
   </defs>
 
-  <!-- Background -->
-  <rect width="800" height="320" rx="16" fill="url(#bg)"/>
-  <rect width="800" height="320" rx="16" fill="none" stroke="url(#accent)" stroke-width="1.5" opacity="0.4"/>
+  <rect width="900" height="300" rx="16" fill="url(#bg)"/>
+  <rect width="900" height="300" rx="16" fill="none" stroke="url(#accent)" stroke-width="1.5" opacity="0.4"/>
+  <circle cx="820" cy="40" r="90" fill="#00D4FF" opacity="0.03"/>
+  <circle cx="850" cy="270" r="70" fill="#00b894" opacity="0.04"/>
+  <rect x="0" y="0" width="900" height="3" rx="2" fill="url(#accent)"/>
 
-  <!-- Decorative circles -->
-  <circle cx="720" cy="40" r="80" fill="#00D4FF" opacity="0.03"/>
-  <circle cx="750" cy="280" r="60" fill="#00b894" opacity="0.04"/>
-  <circle cx="30" cy="290" r="50" fill="#fd79a8" opacity="0.03"/>
+  <circle cx="85" cy="100" r="48" fill="none" stroke="url(#accent)" stroke-width="2"/>
+  <circle cx="85" cy="100" r="42" fill="#1a2332"/>
+  <text x="85" y="110" text-anchor="middle" font-size="32">🧬</text>
 
-  <!-- Top accent line -->
-  <rect x="0" y="0" width="800" height="3" rx="2" fill="url(#accent)"/>
+  <text x="155" y="82" font-size="22" font-weight="700" fill="white">Iván Docampo González</text>
+  <rect x="155" y="89" width="220" height="2" rx="1" fill="url(#accent)" opacity="0.6"/>
+  <text x="155" y="110" font-size="13" fill="#8b949e">AI Engineering Student · Universidade da Coruña</text>
+  <text x="155" y="130" font-size="12" fill="#6e7681">📍 Lugo &amp; A Coruña, Galicia 🇪🇸  ·  2023 – 2027</text>
 
-  <!-- LEFT COLUMN -->
-  <!-- Avatar circle -->
-  <circle cx="80" cy="100" r="44" fill="none" stroke="url(#accent)" stroke-width="2"/>
-  <circle cx="80" cy="100" r="38" fill="#1a2332"/>
-  <text x="80" y="108" text-anchor="middle" font-size="30">🧬</text>
+  <line x1="36" y1="158" x2="864" y2="158" stroke="#21262d" stroke-width="1"/>
 
-  <!-- Name -->
-  <text x="145" y="85" font-size="20" font-weight="700" fill="white">Iván Docampo González</text>
-  <rect x="145" y="92" width="200" height="2" rx="1" fill="url(#accent)" opacity="0.6"/>
-  <text x="145" y="112" font-size="12.5" fill="#8b949e">AI Engineering Student · Universidade da Coruña</text>
-  <text x="145" y="130" font-size="12" fill="#6e7681">📍 Lugo, Galicia 🇪🇸  ·  2023 – 2027</text>
+  <rect x="36" y="172" width="190" height="60" rx="10" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+  <text x="131" y="194" text-anchor="middle" font-size="20">🎓</text>
+  <text x="131" y="212" text-anchor="middle" font-size="11" font-weight="600" fill="#e6edf3">Degree</text>
+  <text x="131" y="226" text-anchor="middle" font-size="10" fill="#8b949e">Artificial Intelligence</text>
 
-  <!-- Divider -->
-  <line x1="32" y1="158" x2="768" y2="158" stroke="#21262d" stroke-width="1"/>
+  <rect x="238" y="172" width="190" height="60" rx="10" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+  <text x="333" y="194" text-anchor="middle" font-size="20">🔬</text>
+  <text x="333" y="212" text-anchor="middle" font-size="11" font-weight="600" fill="#e6edf3">Building</text>
+  <text x="333" y="226" text-anchor="middle" font-size="10" fill="#8b949e">BioSeqAI</text>
 
-  <!-- STATS ROW -->
-  <!-- Degree -->
-  <rect x="32" y="172" width="170" height="56" rx="10" fill="#161b22" stroke="#21262d" stroke-width="1"/>
-  <text x="117" y="193" text-anchor="middle" font-size="18">🎓</text>
-  <text x="117" y="210" text-anchor="middle" font-size="10.5" font-weight="600" fill="#e6edf3">Degree</text>
-  <text x="117" y="223" text-anchor="middle" font-size="9.5" fill="#8b949e">Artificial Intelligence</text>
+  <rect x="440" y="172" width="190" height="60" rx="10" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+  <text x="535" y="194" text-anchor="middle" font-size="20">🚀</text>
+  <text x="535" y="212" text-anchor="middle" font-size="11" font-weight="600" fill="#e6edf3">Goal</text>
+  <text x="535" y="226" text-anchor="middle" font-size="10" fill="#8b949e">Computational Bioinformatics</text>
 
-  <!-- Building -->
-  <rect x="214" y="172" width="170" height="56" rx="10" fill="#161b22" stroke="#21262d" stroke-width="1"/>
-  <text x="299" y="193" text-anchor="middle" font-size="18">🔬</text>
-  <text x="299" y="210" text-anchor="middle" font-size="10.5" font-weight="600" fill="#e6edf3">Building</text>
-  <text x="299" y="223" text-anchor="middle" font-size="9.5" fill="#8b949e">BioSeqAI</text>
+  <rect x="642" y="172" width="222" height="60" rx="10" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+  <text x="753" y="194" text-anchor="middle" font-size="20">💼</text>
+  <text x="753" y="212" text-anchor="middle" font-size="11" font-weight="600" fill="#e6edf3">Open To</text>
+  <text x="753" y="226" text-anchor="middle" font-size="10" fill="#8b949e">Internships · Research</text>
 
-  <!-- Goal -->
-  <rect x="396" y="172" width="170" height="56" rx="10" fill="#161b22" stroke="#21262d" stroke-width="1"/>
-  <text x="481" y="193" text-anchor="middle" font-size="18">🚀</text>
-  <text x="481" y="210" text-anchor="middle" font-size="10.5" font-weight="600" fill="#e6edf3">Goal</text>
-  <text x="481" y="223" text-anchor="middle" font-size="9.5" fill="#8b949e">Computational Bioinformatics</text>
+  <text x="36" y="252" font-size="10" font-weight="600" fill="#6e7681" letter-spacing="1">INTERESTS</text>
 
-  <!-- Open To -->
-  <rect x="578" y="172" width="190" height="56" rx="10" fill="#161b22" stroke="#21262d" stroke-width="1"/>
-  <text x="673" y="193" text-anchor="middle" font-size="18">💼</text>
-  <text x="673" y="210" text-anchor="middle" font-size="10.5" font-weight="600" fill="#e6edf3">Open To</text>
-  <text x="673" y="223" text-anchor="middle" font-size="9.5" fill="#8b949e">Internships · Research</text>
+  <rect x="36" y="260" width="148" height="28" rx="14" fill="url(#tag1)" stroke="#00D4FF" stroke-width="0.8" opacity="0.9"/>
+  <text x="110" y="279" text-anchor="middle" font-size="12" fill="#00D4FF">🧠 Machine Learning</text>
 
-  <!-- BOTTOM TAGS -->
-  <text x="32" y="256" font-size="10.5" font-weight="600" fill="#6e7681" letter-spacing="1">INTERESTS</text>
+  <rect x="194" y="260" width="132" height="28" rx="14" fill="url(#tag1)" stroke="#00D4FF" stroke-width="0.8" opacity="0.9"/>
+  <text x="260" y="279" text-anchor="middle" font-size="12" fill="#00D4FF">⚡ Deep Learning</text>
 
-  <!-- Tag: Machine Learning -->
-  <rect x="32" y="264" width="130" height="26" rx="13" fill="url(#tag1)" stroke="#00D4FF" stroke-width="0.8" opacity="0.8"/>
-  <text x="97" y="281" text-anchor="middle" font-size="11" fill="#00D4FF">🧠 Machine Learning</text>
+  <rect x="336" y="260" width="152" height="28" rx="14" fill="url(#tag2)" stroke="#00b894" stroke-width="0.8" opacity="0.9"/>
+  <text x="412" y="279" text-anchor="middle" font-size="12" fill="#00b894">🧬 Bioinformatics</text>
 
-  <!-- Tag: Deep Learning -->
-  <rect x="172" y="264" width="118" height="26" rx="13" fill="url(#tag1)" stroke="#00D4FF" stroke-width="0.8" opacity="0.8"/>
-  <text x="231" y="281" text-anchor="middle" font-size="11" fill="#00D4FF">⚡ Deep Learning</text>
+  <rect x="498" y="260" width="116" height="28" rx="14" fill="url(#tag2)" stroke="#00b894" stroke-width="0.8" opacity="0.9"/>
+  <text x="556" y="279" text-anchor="middle" font-size="12" fill="#00b894">🔬 Genomics</text>
 
-  <!-- Tag: Python -->
-  <rect x="300" y="264" width="82" height="26" rx="13" fill="url(#tag2)" stroke="#00b894" stroke-width="0.8" opacity="0.8"/>
-  <text x="341" y="281" text-anchor="middle" font-size="11" fill="#00b894">🐍 Python</text>
+  <rect x="624" y="260" width="150" height="28" rx="14" fill="url(#tag1)" stroke="#00D4FF" stroke-width="0.8" opacity="0.9"/>
+  <text x="699" y="279" text-anchor="middle" font-size="12" fill="#00D4FF">👁️ Computer Vision</text>
 
-  <!-- Tag: Bioinformatics -->
-  <rect x="392" y="264" width="150" height="26" rx="13" fill="url(#tag2)" stroke="#00b894" stroke-width="0.8" opacity="0.8"/>
-  <text x="467" y="281" text-anchor="middle" font-size="11" fill="#00b894">🧬 Bioinformatics</text>
-
-  <!-- Tag: AI Ethics -->
-  <rect x="552" y="264" width="100" height="26" rx="13" fill="url(#tag3)" stroke="#fd79a8" stroke-width="0.8" opacity="0.8"/>
-  <text x="602" y="281" text-anchor="middle" font-size="11" fill="#fd79a8">🌱 AI Ethics</text>
-
-  <!-- Tag: Languages -->
-  <rect x="662" y="264" width="106" height="26" rx="13" fill="url(#tag3)" stroke="#fd79a8" stroke-width="0.8" opacity="0.8"/>
-  <text x="715" y="281" text-anchor="middle" font-size="11" fill="#fd79a8">🌍 ES · GL · EN</text>
-
-  <!-- Bottom line -->
-  <rect x="0" y="317" width="800" height="3" rx="2" fill="url(#accent)" opacity="0.3"/>
+  <rect x="0" y="297" width="900" height="3" rx="2" fill="url(#accent)" opacity="0.3"/>
 </svg>

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1500&color=00D4FF&center=true&vCenter=true&width=700&lines=Iv%C3%A1n+Docampo+Gonz%C3%A1lez;%3C+Iv%C3%A1n+Docampo+Gonz%C3%A1lez+%2F%3E;%7B+Iv%C3%A1n+Docampo+Gonz%C3%A1lez+%7D;_+Iv%C3%A1n+Docampo+Gonz%C3%A1lez+_" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=46&pause=1500&color=00D4FF&center=true&vCenter=true&width=900&height=80&lines=Iv%C3%A1n+Docampo+Gonz%C3%A1lez;%3C+Iv%C3%A1n+Docampo+Gonz%C3%A1lez+%2F%3E;%7B+Iv%C3%A1n+Docampo+Gonz%C3%A1lez+%7D;_+Iv%C3%A1n+Docampo+Gonz%C3%A1lez+_" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -11,7 +11,7 @@
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=2000&color=00D4FF&center=true&vCenter=true&width=500&lines=Featured+Project;My+main+project;What+I%27m+building" alt="Featured Project" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&lines=Featured+Project;My+main+project;What+I%27m+building" alt="Featured Project" />
 </div>
 
 <div align="center">
@@ -21,14 +21,12 @@
 **BioSeqAI** — Personal Python package applying deep learning to biological sequence tasks:
 promoter detection · splice site prediction · gene expression clustering
 
-`Python` · `TensorFlow/Keras` · `PyTorch` · `scikit-learn` · `GitHub Actions CI/CD`
-
 </div>
 
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=2000&color=00D4FF&center=true&vCenter=true&width=500&lines=Tech+Stack;Tools+I+work+with;My+toolkit" alt="Tech Stack" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&lines=Tech+Stack;Tools+I+work+with;My+toolkit" alt="Tech Stack" />
 </div>
 
 <div align="center">
@@ -65,7 +63,7 @@ promoter detection · splice site prediction · gene expression clustering
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=2000&color=00D4FF&center=true&vCenter=true&width=500&lines=GitHub+Stats;My+activity;Contributions+%26+Languages" alt="GitHub Stats" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&lines=GitHub+Stats;My+activity;Contributions+%26+Languages" alt="GitHub Stats" />
 </div>
 
 <div align="center">
@@ -82,8 +80,10 @@ promoter detection · splice site prediction · gene expression clustering
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=2000&color=00D4FF&center=true&vCenter=true&width=500&lines=Certifications;What+I%27ve+learned;Credentials" alt="Certifications" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&lines=Certifications;What+I%27ve+learned;Credentials" alt="Certifications" />
 </div>
+
+<div align="center">
 
 | Institution | Certification |
 |---|---|
@@ -96,10 +96,12 @@ promoter detection · splice site prediction · gene expression clustering
 | Microsoft | Power BI · Responsible AI with GitHub Copilot |
 | Kaggle | Data Analysis with Pandas |
 
+</div>
+
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=2000&color=00D4FF&center=true&vCenter=true&width=500&lines=International+Experience;Global+collaboration;COIL+Project" alt="International Experience" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&lines=International+Experience;Global+collaboration;COIL+Project" alt="International Experience" />
 </div>
 
 > **COIL Project — Seneca Polytechnic (Canada) × Universidade da Coruña (Spain)**
@@ -109,7 +111,7 @@ promoter detection · splice site prediction · gene expression clustering
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=2000&color=00D4FF&center=true&vCenter=true&width=500&lines=Let%27s+connect;Find+me+online;Open+to+collaborate;Drop+me+a+message" alt="Connect" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&lines=Let%27s+connect;Find+me+online;Open+to+collaborate;Drop+me+a+message" alt="Connect" />
 
 <br/><br/>
 

@@ -102,15 +102,20 @@ promoter detection · splice site prediction · gene expression clustering
 
 <div align="center">
 
-### 🔗 Let's connect
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=2000&color=00D4FF&center=true&vCenter=true&width=500&lines=Let%27s+connect+%F0%9F%94%97;Find+me+online+%F0%9F%8C%90;Open+to+collaborate+%F0%9F%A4%9D;Drop+me+a+message+%F0%9F%93%A9" alt="Connect Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ivandocampogonzalez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ivandocampogonzalez)
-[![Email](https://img.shields.io/badge/Email-ivandocampogonzalez%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivandocampogonzalez@gmail.com)
+<br/><br/>
 
-<br/>
+<a href="https://linkedin.com/in/ivandocampogonzalez">
+  <img src="https://img.shields.io/badge/-%20Iván%20Docampo%20González-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:ivandocampogonzalez@gmail.com">
+  <img src="https://img.shields.io/badge/-ivandocampogonzalez%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
+</a>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ivandocampo.ivandocampo)
+<br/><br/>
 
-*"The best way to predict the future is to build it."*
+<img src="https://komarev.com/ghpvc/?username=ivandocampo&style=for-the-badge&color=00D4FF&label=PROFILE+VIEWS" />
 
 </div>

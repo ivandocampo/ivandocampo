@@ -113,11 +113,11 @@ promoter detection · splice site prediction · gene expression clustering
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Iv%C3%A1n%20Docampo%20Gonz%C3%A1lez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ivandocampogonzalez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ivandocampogonzalez)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-ivandocampogonzalez%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivandocampogonzalez@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivandocampogonzalez@gmail.com)
 &nbsp;
-[![Kaggle](https://img.shields.io/badge/Kaggle-ivndocampo-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ivndocampo)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ivndocampo)
 
 <br/><br/>
 

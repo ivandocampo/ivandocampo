@@ -18,18 +18,9 @@
 
 ## 🧬 About Me
 
-```python
-ivan = {
-    "name"       : "Iván Docampo González",
-    "degree"     : "Artificial Intelligence @ Universidade da Coruña (2023–2027)",
-    "location"   : "Lugo, Galicia 🇪🇸",
-    "interests"  : ["Machine Learning", "Deep Learning", "Computational Bioinformatics"],
-    "building"   : "BioSeqAI — deep learning for biological sequence analysis 🧬",
-    "goal"       : "Specialize in AI applied to genomics & computational biology",
-    "open_to"    : ["Internships", "Research Projects", "Collaborations"],
-    "languages"  : ["Spanish 🇪🇸 (native)", "Galician 🏴󠁧󠁢󠁳󠁣󠁴󠁿 (native)", "English 🇬🇧 (B2)"],
-}
-```
+<div align="center">
+  <img src="about.svg" width="800"/>
+</div>
 
 ---
 

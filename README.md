@@ -1,25 +1,14 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Iv%C3%A1n+%F0%9F%91%8B;AI+Engineering+Student;Machine+Learning+%7C+Deep+Learning;%F0%9F%94%9C+Moving+into+Computational+Bioinformatics" alt="Typing SVG" />
-
-<br/>
-
-<!-- BADGES -->
-<img src="https://img.shields.io/badge/AI%20Engineering-UDC%202023--2027-blueviolet?style=for-the-badge&logo=academia&logoColor=white"/>
-<img src="https://img.shields.io/badge/Focus-Computational%20Bioinformatics-00b894?style=for-the-badge&logo=dna&logoColor=white"/>
-<img src="https://img.shields.io/badge/Open%20To%20Work-Internships%20%26%20Research-ff6b6b?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<!-- ANIMATED HEADER - nombre con estilos distintos cada vez -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1500&color=00D4FF&center=true&vCenter=true&width=700&lines=Iv%C3%A1n+Docampo+Gonz%C3%A1lez;%3C+Iv%C3%A1n+Docampo+Gonz%C3%A1lez+%2F%3E;%7B+Iv%C3%A1n+Docampo+Gonz%C3%A1lez+%7D;_+Iv%C3%A1n+Docampo+Gonz%C3%A1lez+_" alt="Typing SVG" />
 
 <br/><br/>
 
+<div align="center">
+  <img src="about.svg" width="900"/>
 </div>
 
----
-
-## 🧬 About Me
-
-<div align="center">
-  <img src="about.svg" width="800"/>
 </div>
 
 ---

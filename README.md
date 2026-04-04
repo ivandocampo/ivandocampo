@@ -1,25 +1,24 @@
 <div align="center">
 
-<!-- ANIMATED HEADER - nombre con estilos distintos cada vez -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1500&color=00D4FF&center=true&vCenter=true&width=700&lines=Iv%C3%A1n+Docampo+Gonz%C3%A1lez;%3C+Iv%C3%A1n+Docampo+Gonz%C3%A1lez+%2F%3E;%7B+Iv%C3%A1n+Docampo+Gonz%C3%A1lez+%7D;_+Iv%C3%A1n+Docampo+Gonz%C3%A1lez+_" alt="Typing SVG" />
 
 <br/><br/>
 
-<div align="center">
-  <img src="about.svg" width="900"/>
-</div>
+<img src="about.svg" width="900"/>
 
 </div>
 
 ---
 
-## 🔬 Featured Project
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=2000&color=00D4FF&center=true&vCenter=true&width=500&lines=Featured+Project;My+main+project;What+I%27m+building" alt="Featured Project" />
+</div>
 
 <div align="center">
 
 [![BioSeqAI](https://github-readme-stats.vercel.app/api/pin/?username=ivandocampo&repo=BioSeqAI&theme=tokyonight&border_color=00D4FF)](https://github.com/ivandocampo/BioSeqAI)
 
-**🧬 BioSeqAI** — Personal Python package applying deep learning to biological sequence tasks:
+**BioSeqAI** — Personal Python package applying deep learning to biological sequence tasks:
 promoter detection · splice site prediction · gene expression clustering
 
 `Python` · `TensorFlow/Keras` · `PyTorch` · `scikit-learn` · `GitHub Actions CI/CD`
@@ -28,7 +27,9 @@ promoter detection · splice site prediction · gene expression clustering
 
 ---
 
-## 🛠️ Tech Stack
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=2000&color=00D4FF&center=true&vCenter=true&width=500&lines=Tech+Stack;Tools+I+work+with;My+toolkit" alt="Tech Stack" />
+</div>
 
 <div align="center">
 
@@ -63,7 +64,9 @@ promoter detection · splice site prediction · gene expression clustering
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=2000&color=00D4FF&center=true&vCenter=true&width=500&lines=GitHub+Stats;My+activity;Contributions+%26+Languages" alt="GitHub Stats" />
+</div>
 
 <div align="center">
 
@@ -78,22 +81,26 @@ promoter detection · splice site prediction · gene expression clustering
 
 ---
 
-## 🏅 Certifications Highlights
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=2000&color=00D4FF&center=true&vCenter=true&width=500&lines=Certifications;What+I%27ve+learned;Credentials" alt="Certifications" />
+</div>
 
 | Institution | Certification |
 |---|---|
-| 🎓 Stanford / DeepLearning.AI | Supervised Machine Learning: Regression & Classification |
-| 🏛️ Politecnico di Milano | Ethics of Artificial Intelligence |
-| ☁️ Amazon Web Services | AWS Services for AI Solutions |
-| 🔵 Google | Use AI Responsibly · Introduction to Responsible AI |
-| 🟡 University of Michigan | Python for Everybody |
-| 🟢 NVIDIA | Building a Brain · Introduction to Networking |
-| 🟦 Microsoft | Power BI · Responsible AI with GitHub Copilot |
-| 📊 Kaggle | Data Analysis with Pandas |
+| Stanford / DeepLearning.AI | Supervised Machine Learning: Regression & Classification |
+| Politecnico di Milano | Ethics of Artificial Intelligence |
+| Amazon Web Services | AWS Services for AI Solutions |
+| Google | Use AI Responsibly · Introduction to Responsible AI |
+| University of Michigan | Python for Everybody |
+| NVIDIA | Building a Brain · Introduction to Networking |
+| Microsoft | Power BI · Responsible AI with GitHub Copilot |
+| Kaggle | Data Analysis with Pandas |
 
 ---
 
-## 🌍 International Experience
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=2000&color=00D4FF&center=true&vCenter=true&width=500&lines=International+Experience;Global+collaboration;COIL+Project" alt="International Experience" />
+</div>
 
 > **COIL Project — Seneca Polytechnic (Canada) × Universidade da Coruña (Spain)**
 > Agile Software Development · SCRUM · International Team · Remote · Oct–Dec 2024
@@ -102,17 +109,15 @@ promoter detection · splice site prediction · gene expression clustering
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=2000&color=00D4FF&center=true&vCenter=true&width=500&lines=Let%27s+connect+%F0%9F%94%97;Find+me+online+%F0%9F%8C%90;Open+to+collaborate+%F0%9F%A4%9D;Drop+me+a+message+%F0%9F%93%A9" alt="Connect Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=2000&color=00D4FF&center=true&vCenter=true&width=500&lines=Let%27s+connect;Find+me+online;Open+to+collaborate;Drop+me+a+message" alt="Connect" />
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/ivandocampogonzalez">
-  <img src="https://img.shields.io/badge/-%20Iván%20Docampo%20González-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:ivandocampogonzalez@gmail.com">
-  <img src="https://img.shields.io/badge/-ivandocampogonzalez%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Iv%C3%A1n%20Docampo%20Gonz%C3%A1lez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ivandocampogonzalez)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-ivandocampogonzalez%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivandocampogonzalez@gmail.com)
+&nbsp;
+[![Kaggle](https://img.shields.io/badge/Kaggle-ivndocampo-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ivndocampo)
 
 <br/><br/>
 

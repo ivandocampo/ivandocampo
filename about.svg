@@ -24,53 +24,53 @@
   <circle cx="850" cy="270" r="70" fill="#00b894" opacity="0.04"/>
   <rect x="0" y="0" width="900" height="3" rx="2" fill="url(#accent)"/>
 
+  <!-- Avatar -->
   <circle cx="85" cy="100" r="48" fill="none" stroke="url(#accent)" stroke-width="2"/>
   <circle cx="85" cy="100" r="42" fill="#1a2332"/>
-  <text x="85" y="110" text-anchor="middle" font-size="32">🧬</text>
+  <text x="85" y="110" text-anchor="middle" font-size="32">🧠</text>
 
+  <!-- Name & info -->
   <text x="155" y="82" font-size="22" font-weight="700" fill="white">Iván Docampo González</text>
   <rect x="155" y="89" width="220" height="2" rx="1" fill="url(#accent)" opacity="0.6"/>
   <text x="155" y="110" font-size="13" fill="#8b949e">AI Engineering Student · Universidade da Coruña</text>
   <text x="155" y="130" font-size="12" fill="#6e7681">📍 Lugo &amp; A Coruña, Galicia 🇪🇸  ·  2023 – 2027</text>
 
+  <!-- Divider -->
   <line x1="36" y1="158" x2="864" y2="158" stroke="#21262d" stroke-width="1"/>
 
-  <rect x="36" y="172" width="190" height="60" rx="10" fill="#161b22" stroke="#21262d" stroke-width="1"/>
-  <text x="131" y="194" text-anchor="middle" font-size="20">🎓</text>
-  <text x="131" y="212" text-anchor="middle" font-size="11" font-weight="600" fill="#e6edf3">Degree</text>
-  <text x="131" y="226" text-anchor="middle" font-size="10" fill="#8b949e">Artificial Intelligence</text>
+  <!-- STATS ROW — 3 cards -->
+  <rect x="36" y="172" width="270" height="60" rx="10" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+  <text x="171" y="194" text-anchor="middle" font-size="20">🎓</text>
+  <text x="171" y="212" text-anchor="middle" font-size="11" font-weight="600" fill="#e6edf3">Degree</text>
+  <text x="171" y="226" text-anchor="middle" font-size="10" fill="#8b949e">Artificial Intelligence</text>
 
-  <rect x="238" y="172" width="190" height="60" rx="10" fill="#161b22" stroke="#21262d" stroke-width="1"/>
-  <text x="333" y="194" text-anchor="middle" font-size="20">🔬</text>
-  <text x="333" y="212" text-anchor="middle" font-size="11" font-weight="600" fill="#e6edf3">Building</text>
-  <text x="333" y="226" text-anchor="middle" font-size="10" fill="#8b949e">BioSeqAI</text>
+  <rect x="318" y="172" width="270" height="60" rx="10" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+  <text x="453" y="194" text-anchor="middle" font-size="20">💻</text>
+  <text x="453" y="212" text-anchor="middle" font-size="11" font-weight="600" fill="#e6edf3">Focus</text>
+  <text x="453" y="226" text-anchor="middle" font-size="10" fill="#8b949e">Machine Learning · Deep Learning</text>
 
-  <rect x="440" y="172" width="190" height="60" rx="10" fill="#161b22" stroke="#21262d" stroke-width="1"/>
-  <text x="535" y="194" text-anchor="middle" font-size="20">🚀</text>
-  <text x="535" y="212" text-anchor="middle" font-size="11" font-weight="600" fill="#e6edf3">Goal</text>
-  <text x="535" y="226" text-anchor="middle" font-size="10" fill="#8b949e">Computational Bioinformatics</text>
+  <rect x="600" y="172" width="264" height="60" rx="10" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+  <text x="732" y="194" text-anchor="middle" font-size="20">💼</text>
+  <text x="732" y="212" text-anchor="middle" font-size="11" font-weight="600" fill="#e6edf3">Open To</text>
+  <text x="732" y="226" text-anchor="middle" font-size="10" fill="#8b949e">Internships · Research · Collaborations</text>
 
-  <rect x="642" y="172" width="222" height="60" rx="10" fill="#161b22" stroke="#21262d" stroke-width="1"/>
-  <text x="753" y="194" text-anchor="middle" font-size="20">💼</text>
-  <text x="753" y="212" text-anchor="middle" font-size="11" font-weight="600" fill="#e6edf3">Open To</text>
-  <text x="753" y="226" text-anchor="middle" font-size="10" fill="#8b949e">Internships · Research</text>
-
+  <!-- BOTTOM TAGS -->
   <text x="36" y="252" font-size="10" font-weight="600" fill="#6e7681" letter-spacing="1">INTERESTS</text>
 
   <rect x="36" y="260" width="148" height="28" rx="14" fill="url(#tag1)" stroke="#00D4FF" stroke-width="0.8" opacity="0.9"/>
-  <text x="110" y="279" text-anchor="middle" font-size="12" fill="#00D4FF">🧠 Machine Learning</text>
+  <text x="110" y="279" text-anchor="middle" font-size="12" fill="#00D4FF">⚡ Machine Learning</text>
 
   <rect x="194" y="260" width="132" height="28" rx="14" fill="url(#tag1)" stroke="#00D4FF" stroke-width="0.8" opacity="0.9"/>
-  <text x="260" y="279" text-anchor="middle" font-size="12" fill="#00D4FF">⚡ Deep Learning</text>
+  <text x="260" y="279" text-anchor="middle" font-size="12" fill="#00D4FF">🚀 Deep Learning</text>
 
-  <rect x="336" y="260" width="152" height="28" rx="14" fill="url(#tag2)" stroke="#00b894" stroke-width="0.8" opacity="0.9"/>
-  <text x="412" y="279" text-anchor="middle" font-size="12" fill="#00b894">🧬 Bioinformatics</text>
+  <rect x="336" y="260" width="90" height="28" rx="14" fill="url(#tag2)" stroke="#00b894" stroke-width="0.8" opacity="0.9"/>
+  <text x="381" y="279" text-anchor="middle" font-size="12" fill="#00b894">🐍 Python</text>
 
-  <rect x="498" y="260" width="116" height="28" rx="14" fill="url(#tag2)" stroke="#00b894" stroke-width="0.8" opacity="0.9"/>
-  <text x="556" y="279" text-anchor="middle" font-size="12" fill="#00b894">🔬 Genomics</text>
+  <rect x="436" y="260" width="152" height="28" rx="14" fill="url(#tag2)" stroke="#00b894" stroke-width="0.8" opacity="0.9"/>
+  <text x="512" y="279" text-anchor="middle" font-size="12" fill="#00b894">🧠 Neural Networks</text>
 
-  <rect x="624" y="260" width="150" height="28" rx="14" fill="url(#tag1)" stroke="#00D4FF" stroke-width="0.8" opacity="0.9"/>
-  <text x="699" y="279" text-anchor="middle" font-size="12" fill="#00D4FF">👁️ Computer Vision</text>
+  <rect x="598" y="260" width="150" height="28" rx="14" fill="url(#tag1)" stroke="#00D4FF" stroke-width="0.8" opacity="0.9"/>
+  <text x="673" y="279" text-anchor="middle" font-size="12" fill="#00D4FF">👁️ Computer Vision</text>
 
   <rect x="0" y="297" width="900" height="3" rx="2" fill="url(#accent)" opacity="0.3"/>
 </svg>

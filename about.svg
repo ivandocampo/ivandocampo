@@ -33,7 +33,7 @@
   <text x="155" y="82" font-size="22" font-weight="700" fill="white">Iván Docampo González</text>
   <rect x="155" y="89" width="220" height="2" rx="1" fill="url(#accent)" opacity="0.6"/>
   <text x="155" y="110" font-size="13" fill="#8b949e">AI Engineering Student · Universidade da Coruña</text>
-  <text x="155" y="130" font-size="12" fill="#6e7681">📍 Lugo &amp; A Coruña, Galicia 🇪🇸  ·  2023 – 2027</text>
+  <text x="155" y="130" font-size="12" fill="#6e7681">📍 Lugo &amp; A Coruña, Galicia, España  ·  2023 – 2027</text>
 
   <!-- Divider -->
   <line x1="36" y1="158" x2="864" y2="158" stroke="#21262d" stroke-width="1"/>

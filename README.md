@@ -62,7 +62,7 @@
 
 <h3 align="center">Theoretical Background</h3>
 
-| Topic |
+|  |
 |:---:|
 | Machine Learning |
 | Deep Learning |

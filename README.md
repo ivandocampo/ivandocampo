@@ -16,6 +16,16 @@
 
 <div align="center">
 
+**Bases Teóricas en ML/DL**
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0077B5?style=for-the-badge&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logoColor=white)
+![Supervised Learning](https://img.shields.io/badge/Aprendizaje%20Supervisado-FF6F00?style=for-the-badge&logoColor=white)
+![Unsupervised Learning](https://img.shields.io/badge/Aprendizaje%20No%20Supervisado-7B2D8B?style=for-the-badge&logoColor=white)
+![Semi-supervised](https://img.shields.io/badge/Aprendizaje%20Semi--supervisado-00b894?style=for-the-badge&logoColor=white)
+![Classification](https://img.shields.io/badge/Clasificación-D00000?style=for-the-badge&logoColor=white)
+![Regression](https://img.shields.io/badge/Regresión-F7931E?style=for-the-badge&logoColor=white)
+
 **Languages & Core**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

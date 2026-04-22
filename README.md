@@ -11,25 +11,6 @@
 ---
 
 <div align="center">
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&lines=Theoretical+Background;ML+%26+DL+Foundations;What+I+study" alt="Theoretical Background" />
-</div>
-
-<div align="center">
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0077B5?style=for-the-badge&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logoColor=white)
-![Supervised Learning](https://img.shields.io/badge/Aprendizaje%20Supervisado-FF6F00?style=for-the-badge&logoColor=white)
-![Unsupervised Learning](https://img.shields.io/badge/Aprendizaje%20No%20Supervisado-7B2D8B?style=for-the-badge&logoColor=white)
-![Semi-supervised](https://img.shields.io/badge/Aprendizaje%20Semi--supervisado-00b894?style=for-the-badge&logoColor=white)
-![Classification](https://img.shields.io/badge/Clasificación-D00000?style=for-the-badge&logoColor=white)
-![Regression](https://img.shields.io/badge/Regresión-F7931E?style=for-the-badge&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&lines=Tech+Stack;Tools+I+work+with;My+toolkit" alt="Tech Stack" />
 </div>
 
@@ -63,6 +44,29 @@
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&lines=Theoretical+Background;ML+%26+DL+Foundations;What+I+study" alt="Theoretical Background" />
+</div>
+
+<div align="center">
+
+| Area | Topic |
+|---|---|
+| Machine Learning | Supervised Learning |
+| Machine Learning | Unsupervised Learning |
+| Machine Learning | Semi-supervised Learning |
+| Machine Learning | Classification |
+| Machine Learning | Regression |
+| Deep Learning | Neural Networks |
+| Deep Learning | Deep Learning Architectures |
+| Computer Vision | Computer Vision |
+
+</div>
 
 </div>
 

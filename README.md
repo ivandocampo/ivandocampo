@@ -58,7 +58,7 @@
 
 <table align="center" border="0" cellspacing="20" cellpadding="0">
 <tr>
-<td valign="top" align="center" width="250">
+<td valign="middle" align="center" width="250">
 
 <h3 align="center">Theoretical Background</h3>
 

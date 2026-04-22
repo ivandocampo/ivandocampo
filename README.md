@@ -51,13 +51,19 @@
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&lines=Theoretical+Background;ML+%26+DL+Foundations;What+I+study" alt="Theoretical Background" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=2000&color=00D4FF&center=true&vCenter=true&width=700&lines=Theoretical+Background+%26+Certifications" alt="Background and Certifications" />
 </div>
 
-<div align="center">
+<br/>
 
-| Theoretical Background |
-|---|
+<table align="center">
+<tr>
+<td valign="top" width="30%">
+
+<h3 align="center">📚 Theoretical Background</h3>
+
+| Topic |
+|:---:|
 | Machine Learning |
 | Deep Learning |
 | Supervised Learning |
@@ -67,20 +73,14 @@
 | Regression |
 | Computer Vision |
 
-</div>
+</td>
+<td width="5%"></td>
+<td valign="top" width="65%">
 
-</div>
-
----
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&lines=Certifications;What+I%27ve+learned;Credentials" alt="Certifications" />
-</div>
-
-<div align="center">
+<h3 align="center">🏅 Certifications</h3>
 
 | Institution | Certification |
-|---|---|
+|:---|:---|
 | Stanford / DeepLearning.AI | Supervised Machine Learning: Regression & Classification |
 | Politecnico di Milano | Ethics of Artificial Intelligence |
 | Amazon Web Services | AWS Services for AI Solutions |
@@ -96,7 +96,9 @@
 | NVIDIA | Introduction to Networking |
 | Seneca Polytechnic | International Collaboration for Agile Software Development |
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 

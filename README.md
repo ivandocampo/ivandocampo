@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=46&pause=1500&color=00D4FF&center=true&vCenter=true&width=900&height=80&lines=Iv%C3%A1n+Docampo+Gonz%C3%A1lez;%3C+Iv%C3%A1n+Docampo+Gonz%C3%A1lez+%2F%3E;%7B+Iv%C3%A1n+Docampo+Gonz%C3%A1lez+%7D;_+Iv%C3%A1n+Docampo+Gonz%C3%A1lez+_" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=52&pause=1500&color=00D4FF&center=true&vCenter=true&width=900&height=90&lines=Iv%C3%A1n+Docampo+Gonz%C3%A1lez;%3C+Iv%C3%A1n+Docampo+Gonz%C3%A1lez+%2F%3E;%7B+Iv%C3%A1n+Docampo+Gonz%C3%A1lez+%7D;_+Iv%C3%A1n+Docampo+Gonz%C3%A1lez+_" alt="Typing SVG" />
 
-<br/><br/>
+<br/>
 
-<img src="about.svg" width="900"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ivandocampogonzalez)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivandocampogonzalez@gmail.com)
+&nbsp;
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ivndocampo)
 
 </div>
 

@@ -55,16 +55,16 @@
 
 <div align="center">
 
-| Area | Topic |
-|---|---|
-| Machine Learning | Supervised Learning |
-| Machine Learning | Unsupervised Learning |
-| Machine Learning | Semi-supervised Learning |
-| Machine Learning | Classification |
-| Machine Learning | Regression |
-| Deep Learning | Neural Networks |
-| Deep Learning | Deep Learning Architectures |
-| Computer Vision | Computer Vision |
+| Theoretical Background |
+|---|
+| Machine Learning |
+| Deep Learning |
+| Supervised Learning |
+| Unsupervised Learning |
+| Semi-supervised Learning |
+| Classification |
+| Regression |
+| Computer Vision |
 
 </div>
 

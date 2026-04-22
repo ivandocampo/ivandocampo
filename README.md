@@ -62,10 +62,15 @@
 | Amazon Web Services | AWS Services for AI Solutions |
 | University of Michigan | Python for Everybody |
 | Lewrick & Company | AI and Innovation Compact |
-| Google | Use AI Responsibly · Introduction to Responsible AI |
-| Microsoft | Responsible AI with GitHub Copilot · Power BI |
-| NVIDIA | Building a Brain · Introduction to Networking |
 | Kaggle | Data Analysis with Pandas |
+| Google | Use AI Responsibly |
+| Google | Introduction to Responsible AI |
+| Microsoft | Responsible AI with GitHub Copilot |
+| Microsoft | Introduction to Building with Power BI |
+| Microsoft | Principles of Sustainable Software Engineering |
+| NVIDIA | Building a Brain in 10 Minutes |
+| NVIDIA | Introduction to Networking |
+| Seneca Polytechnic | International Collaboration for Agile Software Development |
 
 </div>
 

@@ -119,12 +119,7 @@ The project focused on developing a digital solution simulating a professional e
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivandocampo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00D4FF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivandocampo&layout=compact&langs_count=7&theme=tokyonight&border_color=00D4FF"/>
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ivandocampo&theme=tokyonight&border=00D4FF)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=ivandocampo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00D4FF&hide=stars,prs,issues,contribs&title_color=00D4FF&custom_title=GitHub+Stats"/>
 
 <br/>
 

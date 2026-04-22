@@ -56,11 +56,11 @@
 
 <br/>
 
-<table align="center">
+<table align="center" border="0" cellspacing="20" cellpadding="0">
 <tr>
-<td valign="top" width="30%">
+<td valign="top" align="center" width="250">
 
-<h3 align="center">📚 Theoretical Background</h3>
+<h3 align="center">Theoretical Background</h3>
 
 | Topic |
 |:---:|
@@ -74,10 +74,9 @@
 | Computer Vision |
 
 </td>
-<td width="5%"></td>
-<td valign="top" width="65%">
+<td valign="top" align="center">
 
-<h3 align="center">🏅 Certifications</h3>
+<h3 align="center">Certifications</h3>
 
 | Institution | Certification |
 |:---|:---|

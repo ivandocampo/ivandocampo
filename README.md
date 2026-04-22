@@ -129,11 +129,12 @@ The project focused on developing a digital solution simulating a professional e
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ivandocampo&show_icons=true&theme=tokyonight&border_color=00D4FF&hide=stars,prs,issues,contribs&title_color=00D4FF&custom_title=GitHub+Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ivandocampo&show_icons=true&theme=tokyonight&border_color=00D4FF&hide=stars,prs,issues,contribs&hide_rank=true&title_color=00D4FF&custom_title=GitHub+Stats&count_private=true"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ivandocampo&style=for-the-badge&color=00D4FF&label=PROFILE+VIEWS" />
+![Profile Views](https://img.shields.io/badge/Profile%20Views-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Views Count](https://komarev.com/ghpvc/?username=ivandocampo&style=for-the-badge&color=000000&label=%20)
 
 </div>
 

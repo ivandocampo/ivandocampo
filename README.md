@@ -119,7 +119,7 @@ The project focused on developing a digital solution simulating a professional e
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ivandocampo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00D4FF&hide=stars,prs,issues,contribs&title_color=00D4FF&custom_title=GitHub+Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ivandocampo&show_icons=true&theme=tokyonight&border_color=00D4FF&hide=stars,prs,issues,contribs&title_color=00D4FF&custom_title=GitHub+Stats"/>
 
 <br/>
 

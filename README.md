@@ -34,12 +34,19 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 **Data & Scientific**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-AA4A44?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
 **Tools**
 
@@ -124,23 +131,6 @@ The project focused on developing a digital solution simulating a professional e
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&lines=GitHub+Stats;My+activity;Contributions+%26+Languages" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ivandocampo&show_icons=true&theme=tokyonight&border_color=00D4FF&hide=stars,prs,issues,contribs&hide_rank=true&title_color=00D4FF&custom_title=GitHub+Stats&count_private=true"/>
-
-<br/><br/>
-
-![Profile Views](https://img.shields.io/badge/Profile%20Views-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Views Count](https://komarev.com/ghpvc/?username=ivandocampo&style=for-the-badge&color=000000&label=%20)
-
-</div>
-
----
-
-<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&lines=Let%27s+connect;Find+me+online;Open+to+collaborate;Drop+me+a+message" alt="Connect" />
 
@@ -151,5 +141,10 @@ The project focused on developing a digital solution simulating a professional e
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivandocampogonzalez@gmail.com)
 &nbsp;
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ivndocampo)
+
+<br/><br/>
+
+![Profile Views](https://img.shields.io/badge/Profile%20Views-F05032?style=for-the-badge&logo=git&logoColor=white)
+[![Views Count](https://komarev.com/ghpvc/?username=ivandocampo&style=for-the-badge&color=000000&label=%20)](https://github.com/ivandocampo)
 
 </div>

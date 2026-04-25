@@ -64,57 +64,6 @@
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=2000&color=00D4FF&center=true&vCenter=true&width=700&lines=Theoretical+Background+%26+Certifications" alt="Background and Certifications" />
-</div>
-
-<br/>
-
-<table align="center" border="0" cellspacing="20" cellpadding="0">
-<tr>
-<td valign="middle" align="center" width="250">
-
-<h3 align="center">Theoretical Background</h3>
-
-|  |
-|:---:|
-| Machine Learning |
-| Deep Learning |
-| Supervised Learning |
-| Unsupervised Learning |
-| Semi-supervised Learning |
-| Classification |
-| Regression |
-| Computer Vision |
-
-</td>
-<td valign="top" align="center">
-
-<h3 align="center">Certifications</h3>
-
-| Institution | Certification |
-|:---|:---|
-| Stanford / DeepLearning.AI | Supervised Machine Learning: Regression & Classification |
-| Politecnico di Milano | Ethics of Artificial Intelligence |
-| Amazon Web Services | AWS Services for AI Solutions |
-| University of Michigan | Python for Everybody |
-| Lewrick & Company | AI and Innovation Compact |
-| Kaggle | Data Analysis with Pandas |
-| Google | Use AI Responsibly |
-| Google | Introduction to Responsible AI |
-| Microsoft | Responsible AI with GitHub Copilot |
-| Microsoft | Introduction to Building with Power BI |
-| Microsoft | Principles of Sustainable Software Engineering |
-| NVIDIA | Building a Brain in 10 Minutes |
-| NVIDIA | Introduction to Networking |
-| Seneca Polytechnic | International Collaboration for Agile Software Development |
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=2000&color=00D4FF&center=true&vCenter=true&width=900&lines=Agile+Software+Development+Project+%E2%80%93+International+Collaboration;COIL+Project+%E2%80%93+Seneca+Polytechnic+%C3%97+UDC" alt="International Collaboration" />
 </div>
 

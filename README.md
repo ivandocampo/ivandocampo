@@ -13,7 +13,8 @@
 
 </div>
 
----
+<br>
+<br/>
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&lines=Tech+Stack;Tools+I+work+with;My+toolkit" alt="Tech Stack" />
@@ -62,11 +63,18 @@
 
 </div>
 
----
+<br>
+<br/>
+
+<br>
+<br/>
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=2000&color=00D4FF&center=true&vCenter=true&width=900&lines=Agile+Software+Development+Project+%E2%80%93+International+Collaboration;COIL+Project+%E2%80%93+Seneca+Polytechnic+%C3%97+UDC" alt="International Collaboration" />
 </div>
+
+<br>
+<br/>
 
 <div align="center">
 <img src="coil-certificate.png" width="500"/>
@@ -80,11 +88,17 @@ Active participation as a developer in an international agile team, applying pri
 
 The project focused on developing a digital solution simulating a professional environment, with clearly defined roles and real deliverables.
 
----
+<br>
+<br/>
+<br>
+<br/>
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&lines=Some+Certificates" alt="Some Certificates" />
 </div>
+
+<br>
+<br/>
 
 <div align="center">
 <table border="0" cellspacing="10" cellpadding="0">
@@ -99,11 +113,15 @@ The project focused on developing a digital solution simulating a professional e
 </table>
 </div>
 
----
+<br>
+<br/>
 
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&lines=Let%27s+connect;Find+me+online;Open+to+collaborate;Drop+me+a+message" alt="Connect" />
+
+<br>
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ivandocampogonzalez)
 &nbsp;
@@ -112,6 +130,8 @@ The project focused on developing a digital solution simulating a professional e
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ivndocampo)
 
 <br/><br/>
+<br>
+<br/>
 
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-F05032?style=for-the-badge&logo=git&logoColor=white)
 [![Views Count](https://komarev.com/ghpvc/?username=ivandocampo&style=for-the-badge&color=000000&label=%20)](https://github.com/ivandocampo)

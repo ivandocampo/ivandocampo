@@ -64,26 +64,17 @@
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&lines=Certifications" alt="Certifications" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&lines=Some+Certificates" alt="Some Certificates" />
 </div>
-
-<br/>
-
-<div align="center">
-
-
-<br/>
 
 <div align="center">
 <table border="0" cellspacing="10" cellpadding="0">
 <tr>
 <td align="center">
 <img src="certifications/stanford-supervised-ml.png" width="420" alt="Supervised Machine Learning – Stanford / DeepLearning.AI"/>
-<br/><sub><b>Supervised Machine Learning: Regression & Classification</b><br/>Stanford University / DeepLearning.AI</sub>
 </td>
 <td align="center">
 <img src="certifications/politecnico-ethics-ai.png" width="420" alt="Ethics of Artificial Intelligence – Politecnico di Milano"/>
-<br/><sub><b>Ethics of Artificial Intelligence</b><br/>Politecnico di Milano</sub>
 </td>
 </tr>
 </table>

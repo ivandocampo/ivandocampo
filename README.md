@@ -64,6 +64,53 @@
 ---
 
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&lines=Certifications" alt="Certifications" />
+</div>
+
+<br/>
+
+<div align="center">
+
+| Institution | Certification |
+|:---|:---|
+| Stanford University / DeepLearning.AI | Supervised Machine Learning: Regression & Classification |
+| Politecnico di Milano | Ethics of Artificial Intelligence |
+| Amazon Web Services | AWS Services for AI Solutions |
+| University of Michigan | Python for Everybody |
+| Lewrick & Company | AI and Innovation Compact |
+| Kaggle | Data Analysis with Pandas |
+| Google | Use AI Responsibly |
+| Google | Introduction to Responsible AI |
+| Microsoft | Responsible AI with GitHub Copilot |
+| Microsoft | Introduction to Building with Power BI |
+| Microsoft | Principles of Sustainable Software Engineering |
+| NVIDIA | Building a Brain in 10 Minutes |
+| NVIDIA | Introduction to Networking |
+| Seneca Polytechnic | International Collaboration for Agile Software Development |
+| Cambridge English | Preliminary English Test (B1) |
+
+</div>
+
+<br/>
+
+<div align="center">
+<table border="0" cellspacing="10" cellpadding="0">
+<tr>
+<td align="center">
+<img src="certifications/stanford-supervised-ml.png" width="420" alt="Supervised Machine Learning – Stanford / DeepLearning.AI"/>
+<br/><sub><b>Supervised Machine Learning: Regression & Classification</b><br/>Stanford University / DeepLearning.AI</sub>
+</td>
+<td align="center">
+<img src="certifications/politecnico-ethics-ai.png" width="420" alt="Ethics of Artificial Intelligence – Politecnico di Milano"/>
+<br/><sub><b>Ethics of Artificial Intelligence</b><br/>Politecnico di Milano</sub>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=2000&color=00D4FF&center=true&vCenter=true&width=900&lines=Agile+Software+Development+Project+%E2%80%93+International+Collaboration;COIL+Project+%E2%80%93+Seneca+Polytechnic+%C3%97+UDC" alt="International Collaboration" />
 </div>
 

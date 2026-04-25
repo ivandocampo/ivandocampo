@@ -64,6 +64,24 @@
 ---
 
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=2000&color=00D4FF&center=true&vCenter=true&width=900&lines=Agile+Software+Development+Project+%E2%80%93+International+Collaboration;COIL+Project+%E2%80%93+Seneca+Polytechnic+%C3%97+UDC" alt="International Collaboration" />
+</div>
+
+<div align="center">
+<img src="coil-certificate.png" width="500"/>
+</div>
+
+<br/>
+
+International COIL Project (Collaborative Online International Learning) carried out between Seneca Polytechnic (Canada) and Universidade da Coruña (Spain).
+
+Active participation as a developer in an international agile team, applying principles of collaborative software engineering. Implementation of SCRUM methodologies, multidisciplinary communication, technical problem-solving, and continuous delivery of functional components.
+
+The project focused on developing a digital solution simulating a professional environment, with clearly defined roles and real deliverables.
+
+---
+
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&lines=Some+Certificates" alt="Some Certificates" />
 </div>
 
@@ -83,28 +101,8 @@
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=2000&color=00D4FF&center=true&vCenter=true&width=900&lines=Agile+Software+Development+Project+%E2%80%93+International+Collaboration;COIL+Project+%E2%80%93+Seneca+Polytechnic+%C3%97+UDC" alt="International Collaboration" />
-</div>
-
-<div align="center">
-<img src="coil-certificate.png" width="500"/>
-</div>
-
-<br/>
-
-International COIL Project (Collaborative Online International Learning) carried out between Seneca Polytechnic (Canada) and Universidade da Coruña (Spain).
-
-Active participation as a developer in an international agile team, applying principles of collaborative software engineering. Implementation of SCRUM methodologies, multidisciplinary communication, technical problem-solving, and continuous delivery of functional components.
-
-The project focused on developing a digital solution simulating a professional environment, with clearly defined roles and real deliverables.
-
----
-
-<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&lines=Let%27s+connect;Find+me+online;Open+to+collaborate;Drop+me+a+message" alt="Connect" />
-
-<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ivandocampogonzalez)
 &nbsp;

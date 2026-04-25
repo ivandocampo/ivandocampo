@@ -90,8 +90,6 @@ The project focused on developing a digital solution simulating a professional e
 
 <br>
 <br/>
-<br>
-<br/>
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&lines=Some+Certificates" alt="Some Certificates" />

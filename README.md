@@ -71,25 +71,6 @@
 
 <div align="center">
 
-| Institution | Certification |
-|:---|:---|
-| Stanford University / DeepLearning.AI | Supervised Machine Learning: Regression & Classification |
-| Politecnico di Milano | Ethics of Artificial Intelligence |
-| Amazon Web Services | AWS Services for AI Solutions |
-| University of Michigan | Python for Everybody |
-| Lewrick & Company | AI and Innovation Compact |
-| Kaggle | Data Analysis with Pandas |
-| Google | Use AI Responsibly |
-| Google | Introduction to Responsible AI |
-| Microsoft | Responsible AI with GitHub Copilot |
-| Microsoft | Introduction to Building with Power BI |
-| Microsoft | Principles of Sustainable Software Engineering |
-| NVIDIA | Building a Brain in 10 Minutes |
-| NVIDIA | Introduction to Networking |
-| Seneca Polytechnic | International Collaboration for Agile Software Development |
-| Cambridge English | Preliminary English Test (B1) |
-
-</div>
 
 <br/>
 

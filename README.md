@@ -2,7 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=52&pause=1500&color=00D4FF&center=true&vCenter=true&width=900&height=90&lines=Iv%C3%A1n+Docampo+Gonz%C3%A1lez;%3C+Iv%C3%A1n+Docampo+Gonz%C3%A1lez+%2F%3E;%7B+Iv%C3%A1n+Docampo+Gonz%C3%A1lez+%7D;_+Iv%C3%A1n+Docampo+Gonz%C3%A1lez+_" alt="Typing SVG" />
 
-<br>
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ivandocampogonzalez)
@@ -13,8 +12,7 @@
 
 </div>
 
-<br>
-<br/>
+---
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&lines=Tech+Stack;Tools+I+work+with;My+toolkit" alt="Tech Stack" />
@@ -47,6 +45,7 @@
 ![XGBoost](https://img.shields.io/badge/XGBoost-AA4A44?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![SimPy](https://img.shields.io/badge/SimPy-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-00979D?style=for-the-badge&logo=python&logoColor=white)
@@ -63,18 +62,11 @@
 
 </div>
 
-<br>
-<br/>
-
-<br>
-<br/>
+---
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=2000&color=00D4FF&center=true&vCenter=true&width=900&lines=Agile+Software+Development+Project+%E2%80%93+International+Collaboration;COIL+Project+%E2%80%93+Seneca+Polytechnic+%C3%97+UDC" alt="International Collaboration" />
 </div>
-
-<br>
-<br/>
 
 <div align="center">
 <img src="coil-certificate.png" width="500"/>
@@ -82,16 +74,42 @@
 
 <br/>
 
+International COIL Project (Collaborative Online International Learning) carried out between Seneca Polytechnic (Canada) and Universidade da Coruña (Spain).
+
 Active participation as a developer in an international agile team, applying principles of collaborative software engineering. Implementation of SCRUM methodologies, multidisciplinary communication, technical problem-solving, and continuous delivery of functional components.
 
-<br>
-<br/>
+The project focused on developing a digital solution simulating a professional environment, with clearly defined roles and real deliverables.
+
+---
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&lines=Some+Certificates" alt="Some Certificates" />
 </div>
 
-<br>
+<br/>
+
+<div align="center">
+
+| Institution | Certification |
+|:---|:---|
+| Stanford University / DeepLearning.AI | Supervised Machine Learning: Regression & Classification |
+| Politecnico di Milano | Ethics of Artificial Intelligence |
+| Amazon Web Services | AWS Services for AI Solutions |
+| University of Michigan | Python for Everybody |
+| Lewrick & Company | AI and Innovation Compact |
+| Kaggle | Data Analysis with Pandas |
+| Google | Use AI Responsibly |
+| Google | Introduction to Responsible AI |
+| Microsoft | Responsible AI with GitHub Copilot |
+| Microsoft | Introduction to Building with Power BI |
+| Microsoft | Principles of Sustainable Software Engineering |
+| NVIDIA | Building a Brain in 10 Minutes |
+| NVIDIA | Introduction to Networking |
+| Seneca Polytechnic | International Collaboration for Agile Software Development |
+| Cambridge English | Preliminary English Test (B1) |
+
+</div>
+
 <br/>
 
 <div align="center">
@@ -107,15 +125,13 @@ Active participation as a developer in an international agile team, applying pri
 </table>
 </div>
 
-<br>
-<br/>
+---
 
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&lines=Let%27s+connect;Find+me+online;Open+to+collaborate;Drop+me+a+message" alt="Connect" />
 
-<br>
-<br/>
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ivandocampogonzalez)
 &nbsp;
@@ -124,8 +140,6 @@ Active participation as a developer in an international agile team, applying pri
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ivndocampo)
 
 <br/><br/>
-<br>
-<br/>
 
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-F05032?style=for-the-badge&logo=git&logoColor=white)
 [![Views Count](https://komarev.com/ghpvc/?username=ivandocampo&style=for-the-badge&color=000000&label=%20)](https://github.com/ivandocampo)
